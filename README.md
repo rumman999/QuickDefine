@@ -17,6 +17,15 @@ QuickDefine is a simple utility that allows you to quickly search for the defini
 2. If using the `.ahk` script, ensure you have AutoHotKey installed.
 3. Alternatively, just run the `QuickDefine.exe` file.
 
+### Add to Startup:
+To make **QuickDefine** run automatically every time you start your computer:
+1. Create a shortcut of the `QuickDefine.exe` file or the `.ahk` script (if using AutoHotKey).
+2. Press **`Win + R`** to open the **Run** dialog.
+3. Type **`shell:startup`** and press **Enter** to open the **Startup** folder.
+4. Move the shortcut to this folder.
+
+Now, **QuickDefine** will automatically start each time you log into your computer.
+
 ### Disclaimer:
 This script was **100% made with ChatGPT**, as I am not familiar with scripting. I used ChatGPT to help me create this tool, so all the code and logic were generated with its assistance.
 
